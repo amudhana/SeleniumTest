@@ -3,7 +3,10 @@
 
 	<test name="Test Suite" preserve-order="true" verbose="2">
 		<classes>
+			<class name="com.demo.test.FacebookSignUp" />
 			<class name="com.demo.test.FlipKartHomePage" />
+			
+			
 		</classes>
 	</test>
 
