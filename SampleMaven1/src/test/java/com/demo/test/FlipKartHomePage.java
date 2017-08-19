@@ -28,10 +28,10 @@ public class FlipKartHomePage extends BaseTest {
 		fKHomePage.clickSearch();
 		
 		SearchPage s = new SearchPage(driver);
-		Thread.sleep(20000);
+		/*Thread.sleep(20000);
 		s.SelectMinValue(("10000"));
 		Thread.sleep(20000);
-		s.selectMaxValue("15000");
+		s.selectMaxValue("15000");*/
 				
 	}
 
