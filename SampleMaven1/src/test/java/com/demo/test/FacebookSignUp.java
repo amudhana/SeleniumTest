@@ -48,9 +48,7 @@ public class FacebookSignUp extends BaseTest {
 		//((JavascriptExecutor) driver).executeScript("arguments[0].click();", elements.get(0));
 		
 		//System.out.println(elements.get(0).isSelected());
-		//System.out.println(elements.get(1).isSelected());
-		//elements.get(1).click();
-		//driver.findElement(By.name("sex"));		
+		
 		
 	}
 
